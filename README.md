@@ -3,7 +3,7 @@ This project aims to using convolutional network to classify 62 classes of traff
 
 **Data set information**
 
-GTSRB [http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+[GTSRB](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
 **How to using this project**
 
